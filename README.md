@@ -2,6 +2,13 @@
 https://www.coursera.org/learn/project-management-capstone/supplement/7vheD/1-narrative-charter-statement
 ## a. Project purpose or justification
 ## b. Measurable project objectives and related success criteria
+
+| Objective | Success Criteria |
+| ---- | ---- |
+| First objective is hoge. | Success Criteria of First objective is hoge. |
+| Second objective is hogehoge. | Success Criteria of Second objective is hogehoge. |
+| Third objective is hogehogehoge. | Success Criteria of Second objective is hogehogehoge. |
+
 ## c. High-level requirements
 ## d. Assumptions and constraints
 ## e. High-level risks
@@ -81,6 +88,17 @@ https://www.coursera.org/learn/project-management-capstone/supplement/RtyTu/grad
 ## Links to Relevant Course Content
 https://www.coursera.org/learn/project-management-capstone/supplement/epvxT/links-to-relevant-course-content
 
+
+
+## Example
+https://www.coursera.org/learn/project-management-capstone/peer/8TpaT/feedback-peer-review/review/bJ86fHZIEeyglw7n74i5Tw
+
+
+
+## FAQ
+### What type of files does the Peer Review submission and evaluation take?
+During the peer review submission and evaluation phases, learners  will be able to upload (in the submission phase) and download  (in the evaluation phase)  .txt, .csv, .html, .htm, .css, .pdf, .jpeg,  .jpg, .png, and .gif files.
+https://www.coursera.org/learn/project-management-capstone/supplement/DTE3c/faqs
 
 
 ## Mermaid example
