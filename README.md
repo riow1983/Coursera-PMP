@@ -179,7 +179,7 @@ gantt
   Define requirements     :milestone, 0d
 
   section Define range of web scraping
-  List up web pages      :2023-09-19, 2d
+  List up web pages      :2023-09-14, 2d
   Select web pages      :1d
   Confirm web API availability     :1d
   Define range of web scraping: milestone, 0d
