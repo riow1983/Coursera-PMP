@@ -49,14 +49,13 @@ Upon completion of this project, parents will be freed from manual sorting getti
 ## f. Summary milestone schedule
 ```mermaid
 graph LR
-  A{Define Requirements}
-  B{Define range of ¥nweb scraping}
-  C{Completion of ¥napp prototype}
-  D{Feedbacks from ¥ntest users and refurbishment}
-  E{Initial deployment of app}
-  F{Feedbacks from ¥nusers and refurbishment}
-  G{User servey}
-
+  A[Define Requirements]
+  B[Define range of \nweb scraping]
+  C[Completion of \napp prototype]
+  D[Feedbacks from \ntest users and refurbishment]
+  E[Initial deployment of app]
+  F[Feedbacks from \nusers and refurbishment]
+  G[User servey]
   A-->B
   B-->C
   C-->D
@@ -72,6 +71,84 @@ graph LR
 https://www.coursera.org/learn/project-management-capstone/supplement/RGRp2/2-work-breakdown-structure
 
 ```mermaid
+graph TB
+  H[Completion of Nurse School Sorting App]
+
+  AM[1.0 Define requirements]
+  A1[1.1 Marcket survey]
+  A2[1.2 Select region]
+  A3[1.3 Interview w/ parents \nin the region]
+  A4[1.4 List up factors \nparents consider]
+  A5[1.5 Fix requirements]
+  A6[1.6 List up technical factors]
+  
+  BM[2.0 Define range of \nweb scraping]
+  B1[2.1 List up web pages]
+  B2[2.2 Select web pages]
+  B3[2.3 Confirm web API availability]
+  
+  CM[3.0 Completion of \napp prototype]
+  C1[3.1 Hiring a frontend engineer]
+  C2[3.2 Hiring a web scraping engineer]
+  C3[3.3 Hiring a backend engineer]
+  C4[3.4 Team building]
+  C5[3.5 Frontend development and unit test]
+  C6[3.6 Web scraping /\ndata retrieve via web API]
+  C7[3.7 Backend development and unit test]
+  C8[3.8 Join test]
+  
+  DM[4.0 Feedbacks from \ntest users and refurbishment]
+  D1[4.1 Recruiting test users]
+  D2[4.2 Test by test users \nand feedbacks gathering]
+  D3[4.3 Refurbishment based on feedbacks]
+  D4[4.4 Join test]
+
+  EM[5.0 Initial deployment of app]
+  E1[5.1 Submit app to App Store]
+  E2[5.2 Monitoring the usage of app \nand feedbacks gathering]
+  
+  FM[6.0 Feedbacks from \nusers and refurbishment]
+  F1[6.1 Refurbishment based on feedbacks]
+  F2[6.2 Join test]
+  F3[6.3 Update the version of app \non App Store]
+
+  GM[7.0 User survey]
+  G1[7.1 Hiring a digital marketer]
+  G2[7.2 Develop user survey web site]
+  G3[7.3 Deploy user survey campaign]
+  G4[7.4 Analyze and report user survey]
+
+  H --> AM & BM & CM & DM & EM & FM & GM
+  AM --> A1
+  A1 --> A2
+  A2 --> A3
+  A3 --> A4
+  A4 --> A5
+  A5 --> A6
+  BM --> B1
+  B1 --> B2
+  B2 --> B3
+  CM --> C1
+  C1 --> C2
+  C2 --> C3
+  C3 --> C4
+  C4 --> C5
+  C5 --> C6
+  C6 --> C7
+  C7 --> C8
+  DM --> D1
+  D1 --> D2
+  D2 --> D3
+  D3 --> D4
+  EM --> E1
+  E1 --> E2
+  FM --> F1
+  F1 --> F2
+  F2 --> F3
+  GM --> G1
+  G1 --> G2
+  G2 --> G3
+  G3 --> G4
 ```
 
 ***
