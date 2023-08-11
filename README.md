@@ -155,25 +155,25 @@ graph TB
 # 3 Sequence Project Activities
 https://www.coursera.org/learn/project-management-capstone/supplement/SbODQ/3-sequence-project-activities
 
-[!image](https://github.com/riow1983/Coursera-PMP/blob/main/png/sequence.png)
+![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/sequence.png)
 
 ***
 # 4 Build a Project Schedule
 https://www.coursera.org/learn/project-management-capstone/supplement/Dycq0/4-build-a-project-schedule
 
-[!image](spreadsheetA-2)
+![image](spreadsheetA-2)
 
 ***
 # 5 Create a Project Budget
 https://www.coursera.org/learn/project-management-capstone/supplement/xu0Pj/5-create-a-project-budget
 
-[!image](spreadsheetA-3)
+![image](spreadsheetA-3)
 
 ***
 # 6 Create a RAM
 https://www.coursera.org/learn/project-management-capstone/supplement/IO2AX/6-create-a-ram
 
-[!image](spreadsheetA-4)
+![image](spreadsheetA-4)
 
 Responsible: Person who is completing the task<br>
 Accountable: Person who is making decisions and taking actions on the task(s)<br>
@@ -184,7 +184,7 @@ Informed: Person who will be updated on decisions and actions during the project
 # 7 Identify Project Risks
 https://www.coursera.org/learn/project-management-capstone/supplement/rKo79/7-identify-project-risks
 
-[!image](spreadsheetB)
+![image](spreadsheetB)
 
 
 
