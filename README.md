@@ -161,7 +161,30 @@ https://www.coursera.org/learn/project-management-capstone/supplement/SbODQ/3-se
 # 4 Build a Project Schedule
 https://www.coursera.org/learn/project-management-capstone/supplement/Dycq0/4-build-a-project-schedule
 
-![image](spreadsheetA-2)
+![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/schedule.png)
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section Define requirements
+  Market survey        :2023-08-19, 3d
+  Selection region :3d
+  Interview w/ parents in the region  :10d
+  List up factors parents consider: 1d
+  Fix requirements: 1d
+  List up technical factors: 0.5d
+  Define requirements     :milestone, 0d
+
+  section Define range of web scraping
+  List up web pages      :2023-08-20, 2d
+  Select web pages      :1d
+  Confirm web API availability     :1d
+  Define range of web scraping: milestone, 0d
+```
+
 
 ***
 # 5 Create a Project Budget
@@ -173,7 +196,7 @@ https://www.coursera.org/learn/project-management-capstone/supplement/xu0Pj/5-cr
 # 6 Create a RAM
 https://www.coursera.org/learn/project-management-capstone/supplement/IO2AX/6-create-a-ram
 
-![image](spreadsheetA-4)
+![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/ram.png)
 
 Responsible: Person who is completing the task<br>
 Accountable: Person who is making decisions and taking actions on the task(s)<br>
@@ -184,7 +207,7 @@ Informed: Person who will be updated on decisions and actions during the project
 # 7 Identify Project Risks
 https://www.coursera.org/learn/project-management-capstone/supplement/rKo79/7-identify-project-risks
 
-![image](spreadsheetB)
+![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/risks.png)
 
 
 

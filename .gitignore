@@ -21,6 +21,7 @@ notebooks/setup_kaggle.ipynb
 wandb/
 /table/*
 !/table/.gitkeep
+/reference/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
