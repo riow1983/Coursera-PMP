@@ -50,11 +50,11 @@ Upon completion of this project, parents will be freed from manual sorting getti
 ```mermaid
 graph LR
   A{Define Requirements}
-  B{Define range of Web scraping}
-  C{Completion of app prototype}
-  D{Feedbacks from test users and refurbishment}
+  B{Define range of ¥nweb scraping}
+  C{Completion of ¥napp prototype}
+  D{Feedbacks from ¥ntest users and refurbishment}
   E{Initial deployment of app}
-  F{Feedbacks from users and refurbishment}
+  F{Feedbacks from ¥nusers and refurbishment}
   G{User servey}
 
   A-->B
