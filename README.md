@@ -116,7 +116,7 @@ graph TB
   G1[7.1 Hiring a digital marketer]
   G2[7.2 Develop user survey web site]
   G3[7.3 Deploy user survey campaign]
-  G4[7.4 Analyze and report user survey]
+  G4[7.4 Analyze and report user survey result]
 
   H --> AM & BM & CM & DM & EM & FM & GM
   AM --> A1
@@ -155,7 +155,7 @@ graph TB
 # 3 Sequence Project Activities
 https://www.coursera.org/learn/project-management-capstone/supplement/SbODQ/3-sequence-project-activities
 
-[!image](spreadsheetA-1)
+[!image](https://github.com/riow1983/Coursera-PMP/blob/main/png/sequence.png)
 
 ***
 # 4 Build a Project Schedule
