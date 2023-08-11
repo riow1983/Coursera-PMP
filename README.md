@@ -44,9 +44,9 @@ https://www.coursera.org/learn/project-management-capstone/supplement/IO2AX/6-cr
 
 [!image](spreadsheetA-4)
 
-Responsible: Person who is completing the task
-Accountable: Person who is making decisions and taking actions on the task(s)
-Consulted: Person who will be communicated with regarding the decision-making process and specific tasks
+Responsible: Person who is completing the task<br>
+Accountable: Person who is making decisions and taking actions on the task(s)<br>
+Consulted: Person who will be communicated with regarding the decision-making process and specific tasks<br>
 Informed: Person who will be updated on decisions and actions during the project
 
 # 7 Identify Project Risks
@@ -98,6 +98,7 @@ https://www.coursera.org/learn/project-management-capstone/peer/8TpaT/feedback-p
 ## FAQ
 ### What type of files does the Peer Review submission and evaluation take?
 During the peer review submission and evaluation phases, learners  will be able to upload (in the submission phase) and download  (in the evaluation phase)  .txt, .csv, .html, .htm, .css, .pdf, .jpeg,  .jpg, .png, and .gif files.
+
 https://www.coursera.org/learn/project-management-capstone/supplement/DTE3c/faqs
 
 
