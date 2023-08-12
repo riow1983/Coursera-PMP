@@ -192,9 +192,9 @@ gantt
   3.3 Hiring a backend engineer: a, 2023-09-14, 5d
   3.7 Backend development and unit test: 20d
   3.8 Join test: 5d
-  3.4 Team building: after a, 2d
   3.0 Completion of app prototype: milestone, 0d
-
+  3.4 Team building: after a, 2d
+  
   section 4.0 Feedbacks from test users and refurbishment
   4.1 Recruiting test users: 2023-09-26, 4d
   4.2 Test by test users and feedbacks gathering: 10d
