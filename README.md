@@ -226,7 +226,7 @@ gantt
 # 5 Create a Project Budget
 https://www.coursera.org/learn/project-management-capstone/supplement/xu0Pj/5-create-a-project-budget
 
-![image](spreadsheetA-3)
+![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/budget.png)
 
 ***
 # 6 Create a RAM
