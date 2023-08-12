@@ -169,20 +169,31 @@ gantt
   title       Completion of Nurse School Sorting App
   excludes    weekends
 
-  section Define requirements
-  Market survey        :2023-08-19, 3d
-  Selection region :3d
-  Interview w/ parents in the region  :10d
-  List up factors parents consider: 1d
-  Fix requirements: 1d
-  List up technical factors: 0.5d
-  Define requirements     :milestone, 0d
+  section 1.0 Define requirements
+  1.1 Market survey        :2023-08-19, 3d
+  1.2 Selection region :3d
+  1.3 Interview w/ parents in the region  :10d
+  1.4 List up factors parents consider: 1d
+  1.5 Fix requirements: 1d
+  1.6 List up technical factors: 0.5d
+  1.0 Define requirements     :milestone, 0d
 
-  section Define range of web scraping
-  List up web pages      :2023-09-14, 2d
-  Select web pages      :1d
-  Confirm web API availability     :1d
-  Define range of web scraping: milestone, 0d
+  section 2.0 Define range of web scraping
+  2.1 List up web pages      :2023-09-14, 2d
+  2.2 Select web pages      :1d
+  2.3 Confirm web API availability     :1d
+  2.0 Define range of web scraping: milestone, 0d
+
+  section 3.0 Completion of app prototype
+  3.1 Hiring a frontend engineer: 2023-09-14, 5d
+  3.5 Frontend development and unit test: 20d
+  3.2 Hiring a web scraping engineer: 2023-09-14, 5d
+  3.6 Web scraping / data retrieve via web API: 10d
+  3.3 Hiring a backend engineer: a, 2023-09-14, 5d
+  3.7 Backend development and unit test: 20d
+  3.8 Join test:
+  3.4 Team building: :after a, 2d
+  
 ```
 
 
