@@ -203,9 +203,9 @@ gantt
   section 3.0 Completion of app prototype
   3.1 Hiring a frontend engineer: 2023-09-15, 5d
   3.5 Frontend development and unit test: 20d
-  3.2 Hiring a web scraping engineer: 2023-09-14, 5d
+  3.2 Hiring a web scraping engineer: 2023-09-15, 5d
   3.6 Web scraping / data retrieve via web API: 10d
-  3.3 Hiring a backend engineer: a, 2023-09-14, 5d
+  3.3 Hiring a backend engineer: a, 2023-09-15, 5d
   3.7 Backend development and unit test: 20d
   3.8 Join test: 5d
   3.0 Completion of app prototype: milestone, 0d
