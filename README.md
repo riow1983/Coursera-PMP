@@ -212,6 +212,13 @@ gantt
   6.2 Join test: 5d
   6.3 Update the version of app on App Store: 0.5d
   6.0 Feedbacks from users and refurbishment: milestone, 0d
+
+  section 7.0 User survey
+  7.1 Hiring a digital marketer: 2023-11-14, 5d
+  7.2 Develop user survey web site: 2d
+  7.3 Deploy user survey campaign: 2d
+  7.4 Analyze and report user survey result: 2d
+  7.0 User survey: milestone, 0d
 ```
 
 
