@@ -193,16 +193,19 @@ gantt
   3.7 Backend development and unit test: 20d
   3.8 Join test: 5d
   3.4 Team building: after a, 2d
+  3.0 Completion of app prototype: milestone, 0d
 
   section 4.0 Feedbacks from test users and refurbishment
   4.1 Recruiting test users: 2023-09-26, 4d
   4.2 Test by test users and feedbacks gathering: 10d
   4.3 Refurbishment based on feedbacks: 5d
   4.4 Join test: 5d
+  4.0 Feedbacks from test users and refurbishment: milestone, 0d
   
   section 5.0 Initial deployment of app
-  5.1 Submit app to App Store: 2023-10-29, 0.5d
+  5.1 Submit app to App Store: 2023-10-30, 0.5d
   5.2 Monitoring the usage of app and feedbacks gathering: 10d
+  5.0 Initial deployment of app: milestone, 0d
 ```
 
 
