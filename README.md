@@ -168,7 +168,7 @@ https://www.coursera.org/learn/project-management-capstone/supplement/Dycq0/4-bu
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       1.0 Define requirements
   excludes    weekends
 
   section 1.0 Define requirements
@@ -184,11 +184,11 @@ gantt
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       2.0 Define range of web scraping
   excludes    weekends
 
   section 2.0 Define range of web scraping
-  2.1 List up web pages      :2023-09-14, 2d
+  2.1 List up web pages      :2023-09-15, 2d
   2.2 Select web pages      :1d
   2.3 Confirm web API availability     :1d
   2.0 Define range of web scraping: milestone, 0d
@@ -197,11 +197,11 @@ gantt
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       3.0 Completion of app prototype
   excludes    weekends
 
   section 3.0 Completion of app prototype
-  3.1 Hiring a frontend engineer: 2023-09-14, 5d
+  3.1 Hiring a frontend engineer: 2023-09-15, 5d
   3.5 Frontend development and unit test: 20d
   3.2 Hiring a web scraping engineer: 2023-09-14, 5d
   3.6 Web scraping / data retrieve via web API: 10d
@@ -215,7 +215,7 @@ gantt
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       4.0 Feedbacks from test users and refurbishment
   excludes    weekends
 
   section 4.0 Feedbacks from test users and refurbishment
@@ -229,7 +229,7 @@ gantt
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       5.0 Initial deployment of app
   excludes    weekends
 
   section 5.0 Initial deployment of app
@@ -241,7 +241,7 @@ gantt
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       6.0 Feedbacks from users and refurbishment
   excludes    weekends
 
   section 6.0 Feedbacks from users and refurbishment
@@ -254,7 +254,7 @@ gantt
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title       Completion of Nurse School Sorting App
+  title       7.0 User survey
   excludes    weekends
 
   section 7.0 User survey
