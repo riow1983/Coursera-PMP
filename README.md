@@ -233,7 +233,7 @@ gantt
   excludes    weekends
 
   section 5.0 Initial deployment of app
-  5.1 Submit app to App Store: 2023-10-30, 0.5d
+  5.1 Submit app to App Store: 2023-11-01, 0.5d
   5.2 Monitoring the usage of app and feedbacks gathering: 10d
   5.0 Initial deployment of app: milestone, 0d
 ```
