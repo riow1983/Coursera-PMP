@@ -200,6 +200,9 @@ gantt
   4.3 Refurbishment based on feedbacks: 5d
   4.4 Join test: 5d
   
+  section 5.0 Initial deployment of app
+  5.1 Submit app to App Store: 2023-10-29, 0.5d
+  5.2 Monitoring the usage of app and feedbacks gathering: 10d
 ```
 
 
