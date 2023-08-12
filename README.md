@@ -234,10 +234,10 @@ https://www.coursera.org/learn/project-management-capstone/supplement/IO2AX/6-cr
 
 ![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/ram.png)
 
-Responsible: Person who is completing the task<br>
-Accountable: Person who is making decisions and taking actions on the task(s)<br>
-Consulted: Person who will be communicated with regarding the decision-making process and specific tasks<br>
-Informed: Person who will be updated on decisions and actions during the project
+R (Responsible): Person who is completing the task<br>
+A (Accountable): Person who is making decisions and taking actions on the task(s)<br>
+C (Consulted): Person who will be communicated with regarding the decision-making process and specific tasks<br>
+I (Informed): Person who will be updated on decisions and actions during the project
 
 ***
 # 7 Identify Project Risks
