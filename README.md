@@ -163,6 +163,8 @@ https://www.coursera.org/learn/project-management-capstone/supplement/Dycq0/4-bu
 
 ![image](https://github.com/riow1983/Coursera-PMP/blob/main/png/schedule.png)
 
+
+
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
@@ -170,7 +172,108 @@ gantt
   excludes    weekends
 
   section 1.0 Define requirements
-  1.1 Market survey        :2023-08-19, 3d
+  1.1 Market survey        :2023-08-21, 3d
+  1.2 Selection region :3d
+  1.3 Interview w/ parents in the region  :10d
+  1.4 List up factors parents consider: 1d
+  1.5 Fix requirements: 1d
+  1.6 List up technical factors: 0.5d
+  1.0 Define requirements     :milestone, 0d
+```
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 2.0 Define range of web scraping
+  2.1 List up web pages      :2023-09-14, 2d
+  2.2 Select web pages      :1d
+  2.3 Confirm web API availability     :1d
+  2.0 Define range of web scraping: milestone, 0d
+```
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 3.0 Completion of app prototype
+  3.1 Hiring a frontend engineer: 2023-09-14, 5d
+  3.5 Frontend development and unit test: 20d
+  3.2 Hiring a web scraping engineer: 2023-09-14, 5d
+  3.6 Web scraping / data retrieve via web API: 10d
+  3.3 Hiring a backend engineer: a, 2023-09-14, 5d
+  3.7 Backend development and unit test: 20d
+  3.8 Join test: 5d
+  3.0 Completion of app prototype: milestone, 0d
+  3.4 Team building: after a, 2d
+```
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 4.0 Feedbacks from test users and refurbishment
+  4.1 Recruiting test users: 2023-09-26, 4d
+  4.2 Test by test users and feedbacks gathering: 10d
+  4.3 Refurbishment based on feedbacks: 5d
+  4.4 Join test: 5d
+  4.0 Feedbacks from test users and refurbishment: milestone, 0d
+```
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 5.0 Initial deployment of app
+  5.1 Submit app to App Store: 2023-10-30, 0.5d
+  5.2 Monitoring the usage of app and feedbacks gathering: 10d
+  5.0 Initial deployment of app: milestone, 0d
+```
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 6.0 Feedbacks from users and refurbishment
+  6.1 Refurbishment based on feedbacks: 2023-11-14, 5d
+  6.2 Join test: 5d
+  6.3 Update the version of app on App Store: 0.5d
+  6.0 Feedbacks from users and refurbishment: milestone, 0d
+```
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 7.0 User survey
+  7.1 Hiring a digital marketer: 2023-11-14, 5d
+  7.2 Develop user survey web site: 2d
+  7.3 Deploy user survey campaign: 2d
+  7.4 Analyze and report user survey result: 2d
+  7.0 User survey: milestone, 0d
+```
+
+
+```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  title       Completion of Nurse School Sorting App
+  excludes    weekends
+
+  section 1.0 Define requirements
+  1.1 Market survey        :2023-08-21, 3d
   1.2 Selection region :3d
   1.3 Interview w/ parents in the region  :10d
   1.4 List up factors parents consider: 1d
