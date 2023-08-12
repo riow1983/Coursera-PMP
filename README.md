@@ -192,7 +192,7 @@ gantt
   3.3 Hiring a backend engineer: a, 2023-09-14, 5d
   3.7 Backend development and unit test: 20d
   3.8 Join test:
-  3.4 Team building: :after a, 2d
+  3.4 Team building: after a, 2d
   
 ```
 
