@@ -206,6 +206,12 @@ gantt
   5.1 Submit app to App Store: 2023-10-30, 0.5d
   5.2 Monitoring the usage of app and feedbacks gathering: 10d
   5.0 Initial deployment of app: milestone, 0d
+
+  section 6.0 Feedbacks from users and refurbishment
+  6.1 Refurbishment based on feedbacks: 2023-11-14, 5d
+  6.2 Join test: 5d
+  6.3 Update the version of app on App Store: 0.5d
+  6.0 Feedbacks from users and refurbishment: milestone, 0d
 ```
 
 
