@@ -3,7 +3,7 @@
 ## Project: Development of an App for Automatic Sorting of Nursery Schools by Preference
 | Project Owner | Effective Date | Version | Date |
 | ---- | ---- | ---- | ---- |
-| Ryosuke Horiuchi | August 19, 2023 | First issue | August 11, 2023 |
+| Ryosuke Horiuchi | August 19, 2023 | First issue | August 13, 2023 |
 
 ## a. Project purpose or justification
 The purpose of this project is to develop an app that sorts nursery schools by user's preference. In Japan, when parents want their child to go to a nursery school, they have to report their own prefered nursery schools ranking within the region. Nursery schools on this report must be sorted by parents' preference. A municipal office accepts their submit and decide which nursey school can actually acept their child. One of the main factors for this decision is based on the degree of preference, which means more prefered nursery school is more likely to be adopted as their nursey school. This ranking system annoys parents a lot.
