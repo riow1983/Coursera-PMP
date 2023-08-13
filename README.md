@@ -39,11 +39,12 @@ Upon completion of this project, parents will be freed from manual sorting getti
 - App just displays a recommended nursery school ranking for a user and does not have any responsibilities or guarantees for receiving approval.
 
 ## e. High-level risks
-- Chage in application requirements. (Online application, sort ranking not required any more)
+- Change in application requirements. (Online application, sort ranking not required any more)
 - Inadequate knowledge/skills to develop app.
 - Running cost of app.
 - Lack of added values.
 - High variance between municipalities in terms of collectable information from the internet.
+- High variance between parents in terms of factors to be considered.
 - Legality and/or difficulty of web scraping.
 
 ## f. Summary milestone schedule
