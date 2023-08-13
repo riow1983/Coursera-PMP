@@ -65,7 +65,7 @@ graph LR
   F-->G
 ```
 ## g. Summary budget
-[!image](spreadsheetA')
+[!image](https://github.com/riow1983/Coursera-PMP/blob/main/png/summarybudget.png)
 
 ***
 # 2 Work Breakdown Structure
